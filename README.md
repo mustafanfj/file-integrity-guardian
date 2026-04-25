@@ -38,5 +38,5 @@ python guardian_app.py
 ## Team
 - Mustafa Al Juboori
 - Tahnoon Almazrouei
-- Abdulaziz Mura
+- Abdulaziz Murad
 - Ali Alghaithi
